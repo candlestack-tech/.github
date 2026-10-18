@@ -50,7 +50,7 @@ class TodoTest(CheckTestCase):
 
     def test_todo_with_an_issue_passes(self) -> None:
         self.assertEqual(self.rules("a.py", "# TODO(#12): split this\n"), [])
-        self.assertEqual(self.rules("a.ts", "// FIXME(CandleStack-FEI-STU/ops#3): retry\n"), [])
+        self.assertEqual(self.rules("a.ts", "// FIXME(candlestack-tech/ops#3): retry\n"), [])
         self.assertEqual(self.rules("a.sh", "# HACK (#7) until the image is fixed\n"), [])
 
     def test_lowercase_words_and_strings_are_not_todos(self) -> None:

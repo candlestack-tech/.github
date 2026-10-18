@@ -1,7 +1,7 @@
 name: No AI signs
 
 # Shared check, called as the first job of every repository's CI:
-#   uses: CandleStack-FEI-STU/.github/.github/workflows/no-ai-signs.yml@main
+#   uses: candlestack-tech/.github/.github/workflows/no-ai-signs.yml@main
 # Fails when a new commit or the pull request title/body carries AI attribution:
 # AI co-author trailers, AI authors or committers, "Generated with ..." lines, session links.
 # For a tag push, a commit range against the event's "before" would see nothing (a new tag
