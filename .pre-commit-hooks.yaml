@@ -1,5 +1,5 @@
 # Hooks that other repositories use through pre-commit, pinned to a commit SHA of this repository:
-#   - repo: https://github.com/CandleStack-FEI-STU/.github
+#   - repo: https://github.com/candlestack-tech/.github
 #     rev: <sha>
 #     hooks:
 #       - id: comments

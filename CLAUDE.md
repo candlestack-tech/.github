@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Organization-wide files of CandleStack-FEI-STU (STU FEI team project): the organization profile,
+Organization-wide files of candlestack-tech (STU FEI team project): the organization profile,
 the security policy and the shared `no-ai-signs` workflow that every repository runs as its
 first CI job. See [README.md](README.md).
 

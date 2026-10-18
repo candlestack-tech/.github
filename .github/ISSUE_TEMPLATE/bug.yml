@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         A security issue? Do not open an issue: follow the
-        [security policy](https://github.com/CandleStack-FEI-STU/.github/blob/main/SECURITY.md).
+        [security policy](https://github.com/candlestack-tech/.github/blob/main/SECURITY.md).
   - type: textarea
     id: what-happened
     attributes:

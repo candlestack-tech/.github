@@ -1,7 +1,7 @@
 name: PR hygiene
 
 # Shared check, called from every repository's pull request workflow:
-#   uses: CandleStack-FEI-STU/.github/.github/workflows/pr-hygiene.yml@main
+#   uses: candlestack-tech/.github/.github/workflows/pr-hygiene.yml@main
 # The caller grants `pull-requests: read` (for the file list) and re-runs it on `edited`.
 # "Title and branch" fails when the title is not a sentence-case imperative line of at most 72
 # characters, or the branch is not `<area>/<topic>`. "Size" only warns: above 1000 changed lines,

@@ -1,12 +1,12 @@
 # Contributing
 
-How the team works in every repository of CandleStack-FEI-STU. A repository's own
+How the team works in every repository of candlestack-tech. A repository's own
 `CONTRIBUTING.md` or `README.md` adds its commands and checks.
 
 ## Issues and the board
 
 - Work is tracked as issues on the project board
-  [CandleStack](https://github.com/orgs/CandleStack-FEI-STU/projects/1): Backlog, To Do,
+  [CandleStack](https://github.com/orgs/candlestack-tech/projects/1): Backlog, To Do,
   In Progress, Review, Done. Sprints last two weeks.
 - Open an issue from a form: **Task** for work, **Bug** for something broken, **Spike** for
   timeboxed research. Security issues go to the [security policy](SECURITY.md) instead.

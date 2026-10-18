@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CandleStack-FEI-STU/.github/main/profile/assets/logo-dark.svg">
-  <img alt="CandleStack" src="https://raw.githubusercontent.com/CandleStack-FEI-STU/.github/main/profile/assets/logo-light.svg" height="96">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/candlestack-tech/.github/main/profile/assets/logo-dark.svg">
+  <img alt="CandleStack" src="https://raw.githubusercontent.com/candlestack-tech/.github/main/profile/assets/logo-light.svg" height="96">
 </picture>
 
 # CandleStack
@@ -32,8 +32,8 @@ Every run produces an experiment with a unified set of metrics and visualization
 
 | Repository | Description |
 | --- | --- |
-| [candlestack](https://github.com/CandleStack-FEI-STU/candlestack) | Application monorepo |
-| [website](https://github.com/CandleStack-FEI-STU/website) | Project website at [candlestack.tech](https://candlestack.tech) |
-| [design](https://github.com/CandleStack-FEI-STU/design) | UI mockups and brand assets |
-| [ops](https://github.com/CandleStack-FEI-STU/ops) | Uptime checks and the team status page at [ops.candlestack.tech](https://ops.candlestack.tech) (team only) |
-| [.github](https://github.com/CandleStack-FEI-STU/.github) | Organization profile, security policy and shared workflows |
+| [candlestack](https://github.com/candlestack-tech/candlestack) | Application monorepo |
+| [website](https://github.com/candlestack-tech/website) | Project website at [candlestack.tech](https://candlestack.tech) |
+| [design](https://github.com/candlestack-tech/design) | UI mockups and brand assets |
+| [ops](https://github.com/candlestack-tech/ops) | Uptime checks and the team status page at [ops.candlestack.tech](https://ops.candlestack.tech) (team only) |
+| [.github](https://github.com/candlestack-tech/.github) | Organization profile, security policy and shared workflows |

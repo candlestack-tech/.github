@@ -1,7 +1,7 @@
 name: Linked issue
 
 # Shared check, called from every repository's pull request workflow:
-#   uses: CandleStack-FEI-STU/.github/.github/workflows/linked-issue.yml@main
+#   uses: candlestack-tech/.github/.github/workflows/linked-issue.yml@main
 # Fails when the pull request description closes no issue: a closing keyword (close, fix,
 # resolve and their forms) followed by #N, owner/repo#N or an issue URL, as GitHub links them.
 # HTML comments (the pull request template's hints) do not count. The tech lead and Dependabot

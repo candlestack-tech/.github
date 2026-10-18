@@ -1,6 +1,6 @@
 # Security policy
 
-This policy covers every repository of CandleStack-FEI-STU.
+This policy covers every repository of candlestack-tech.
 
 ## Reporting a vulnerability
 
@@ -13,7 +13,7 @@ Please give us reasonable time to fix the issue before you disclose it.
 
 ## Scope
 
-- The code in the CandleStack-FEI-STU repositories.
+- The code in the candlestack-tech repositories.
 - The public deployment at https://app.candlestack.tech (the web app, the API and its reference).
 
 Out of scope: the team-only environments (stage, previews, ops), third-party services (GitHub,
